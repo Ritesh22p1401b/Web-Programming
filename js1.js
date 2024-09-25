@@ -26,4 +26,3 @@ switch(choice){
         //document.write(+z);
         console.log(z);
 }
-""
