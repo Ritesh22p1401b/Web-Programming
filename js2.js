@@ -1,3 +1,5 @@
+
+
 function Confirmation() { 
     var Val = confirm("Do you want to continue ?"); 
     if (Val == true) { 
